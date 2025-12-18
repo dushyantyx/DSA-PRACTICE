@@ -241,3 +241,5 @@ public class Main {
     }
 }
 
+
+//---------------------------------- WILL ADD MORE IN FUTURE RN AM FED UP WITH PATTERNS------------------------------------------------
